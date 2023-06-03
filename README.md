@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MayuranC
-- 🌱 I’m currently learning Android Studio Development, and Java. 
+- 🌱 I’m currently a student at Varsity College, Durban North, South Africa
 -  I like taking everyday tasks/problems I have; and trying to code a solution to it.
--  I'm currently a first year Computer and Information Sciences student.
 
 <!---
 MayuranC/MayuranC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
